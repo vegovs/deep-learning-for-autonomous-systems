@@ -13,7 +13,7 @@ Results of U-net vs a simple CNN model:
 
 ![Simple CNN model](./road_segmentation/Images/simple_model.png)
 
-![U-net](./road_segmentation/Images/unet.png.png)
+![U-net](./road_segmentation/Images/unet.png)
 
 Train the U-net: 
 ```bash
